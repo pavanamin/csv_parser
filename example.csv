@@ -1,0 +1,6 @@
+Device,Serial,Inventory ID,Hostname
+Router,serial=6548496,1,r1
+Switch1,SN=846587,2,s1
+Access Point,serial#=785687,3,a1
+Switch2,sn=2485689,4,s2
+,,Total Devices,4
